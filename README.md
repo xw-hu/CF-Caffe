@@ -63,7 +63,7 @@ If you use CF-Caffe, please cite:
 2. This version of Caffe is used in:
 
 
-### DSC
+### [DSC](https://github.com/xw-hu/DSC)
 @InProceedings{Hu_2018_CVPR,      
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
@@ -82,7 +82,7 @@ If you use CF-Caffe, please cite:
 ### GNLB
 To appear.
 
-### RADF
+### [RADF](https://github.com/xw-hu/RADF)
 @inproceedings{hu18recurrently,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Qin, Jing and Fu, Chi-Wing and Heng, Pheng-Ann},              
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Recurrently Aggregating Deep Features for Salient Object Detection},    
