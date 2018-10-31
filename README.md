@@ -85,6 +85,6 @@ To appear.
 3. If you want to use MATLAB or Python:
 
    ```shell
-   make pycaffe
    make matcaffe
+   make pycaffe
    ```
