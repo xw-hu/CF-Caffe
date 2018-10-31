@@ -27,6 +27,31 @@ If you use CF-Caffe, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2014}       
 }
 
+## Installation
+1. Clone this repository.
+
+    ```shell
+    git clone https://github.com/xw-hu/CF-Caffe.git
+    ```
+
+2. Build CF-Caffe
+
+   *This model is tested on Ubuntu 16.04, CUDA 8.0.
+    
+   Follow the Caffe installation instructions here: [http://caffe.berkeleyvision.org/installation.html](http://caffe.berkeleyvision.org/installation.html)   
+   
+   ```shell
+   make all -jXX
+   ```
+   
+3. If you want to use MATLAB or Python:
+
+   ```shell
+   make matcaffe
+   make pycaffe
+   ```
+
+
 ## Models
 
 1. Basic models in `examples/segmentation/`:
@@ -64,27 +89,3 @@ To appear.
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {AAAI},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
-
-## Installation
-1. Clone this repository.
-
-    ```shell
-    git clone https://github.com/xw-hu/CF-Caffe.git
-    ```
-
-2. Build CF-Caffe
-
-   *This model is tested on Ubuntu 16.04, CUDA 8.0.
-    
-   Follow the Caffe installation instructions here: [http://caffe.berkeleyvision.org/installation.html](http://caffe.berkeleyvision.org/installation.html)   
-   
-   ```shell
-   make all -jXX
-   ```
-   
-3. If you want to use MATLAB or Python:
-
-   ```shell
-   make matcaffe
-   make pycaffe
-   ```
