@@ -1,0 +1,12 @@
+train_net: "train_val.prototxt"
+base_lr: 1e-8
+lr_policy: "poly"
+power: 0.9
+iter_size: 10
+average_loss: 20
+display: 20
+max_iter: 20000
+momentum: 0.90
+weight_decay: 0.0001
+snapshot: 5000
+snapshot_prefix: "snapshot/NLN"
