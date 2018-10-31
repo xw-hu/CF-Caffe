@@ -20,6 +20,12 @@ If you use CF-Caffe, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
 
+@article{jia2014caffe,
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+&nbsp;&nbsp;&nbsp;&nbsp;  journal = {arXiv preprint arXiv:1408.5093},
+&nbsp;&nbsp;&nbsp;&nbsp;  year = {2014}
+}
 
 ## Models
 
