@@ -54,14 +54,15 @@ If you use CF-Caffe, please cite:
 
 ## Models
 
-1. Basic models in `examples/segmentation/`:
+If you use these models, please cite their papers accordingly.
+
+
+1. Segmentation models in `examples/segmentation/`:
 
    Deeplab v1, Deeplab v3, Deeplab v3 plus, PSPNet, PSANet, Non-local Network (FPN based).
    
-   If you use these models, please cite their papers accordingly.
    
 2. This version of Caffe is used in:
-
 
 ### [DSC](https://github.com/xw-hu/DSC)
 @InProceedings{Hu_2018_CVPR,      
