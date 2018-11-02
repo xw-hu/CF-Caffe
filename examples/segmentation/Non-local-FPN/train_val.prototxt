@@ -5042,6 +5042,12 @@ layer {
   }
 }
 
+layer {
+	top: "feature5"
+	bottom: "feature5"
+	name: "feature5_relu"
+	type: "ReLU"
+}
 ##################################### predict 5
 layer {
   name: "predict5"
@@ -5320,6 +5326,13 @@ layer {
         value: 0
     }
   }
+}
+
+layer {
+	top: "feature4"
+	bottom: "feature4"
+	name: "feature4_relu"
+	type: "ReLU"
 }
 
 ##################################### predict 4
@@ -5616,6 +5629,12 @@ layer {
   }
 }
 
+layer {
+	top: "feature3"
+	bottom: "feature3"
+	name: "feature3_relu"
+	type: "ReLU"
+}
 
 ##################################### predict 3
 layer {
@@ -5897,6 +5916,13 @@ layer {
         value: 0
     }
   }
+}
+
+layer {
+	top: "feature2"
+	bottom: "feature2"
+	name: "feature2_relu"
+	type: "ReLU"
 }
 
 ##################################### predict 2
