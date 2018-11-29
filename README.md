@@ -9,7 +9,7 @@ If you use CF-Caffe, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  month = {June},      
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={7454--7462},        
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
@@ -69,7 +69,7 @@ If you use these models, please cite their papers accordingly.
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  month = {June},      
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={7454--7462},        
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
@@ -87,6 +87,7 @@ To appear.
 @inproceedings{hu18recurrently,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Qin, Jing and Fu, Chi-Wing and Heng, Pheng-Ann},              
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Recurrently Aggregating Deep Features for Salient Object Detection},    
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {AAAI},    
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {AAAI},   
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={6943--6950},         
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
