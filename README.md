@@ -80,7 +80,7 @@ If you use these models, please cite their papers accordingly.
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
 
-### GNLB
+### [GNLB](https://github.com/xw-hu/GNLB)
 To appear.
 
 ### [RADF](https://github.com/xw-hu/RADF)
