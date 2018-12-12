@@ -81,7 +81,12 @@ If you use these models, please cite their papers accordingly.
 }
 
 ### [GNLB](https://github.com/xw-hu/GNLB)
-To appear.
+@article{zhu2018saliency,   
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Zhu, Lei and Hu, Xiaowei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-aware Texture Smoothing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Visualization and Computer Graphics},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+}
 
 ### [RADF](https://github.com/xw-hu/RADF)
 @inproceedings{hu18recurrently,   
