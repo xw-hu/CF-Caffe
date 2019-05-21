@@ -13,11 +13,12 @@ If you use CF-Caffe, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
-@article{hu2018direction,   
+@article{hu2019direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},    
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={arXiv preprint arXiv:1805.04635},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
+&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
 }
 
 @article{jia2014caffe,       
@@ -64,6 +65,14 @@ If you use these models, please cite their papers accordingly.
    
 2. This version of Caffe is used in:
 
+### [DAF-Net](https://github.com/xw-hu/DAF-Net)
+@InProceedings{Hu_2019_CVPR,      
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Depth-attentional Features for Single-image Rain Removal},      
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+&nbsp;&nbsp;&nbsp;&nbsp;  year = {2019}      
+}
+
 ### [DSC](https://github.com/xw-hu/DSC)
 @InProceedings{Hu_2018_CVPR,      
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
@@ -73,11 +82,12 @@ If you use these models, please cite their papers accordingly.
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
 }
 
-@article{hu2018direction,   
+@article{hu2019direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},    
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={arXiv preprint arXiv:1805.04635},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
+&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
 }
 
 ### [GNLB](https://github.com/xw-hu/GNLB)
