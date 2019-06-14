@@ -85,7 +85,7 @@ If you use these models, please cite their papers accordingly.
 
 @article{hu2019direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
 &nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
