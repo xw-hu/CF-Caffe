@@ -15,7 +15,7 @@ If you use CF-Caffe, please cite:
 
 @article{hu2019direction,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
 &nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
@@ -94,7 +94,7 @@ If you use these models, please cite their papers accordingly.
 ### [GNLB](https://github.com/xw-hu/GNLB)
 @article{zhu2018saliency,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Zhu, Lei and Hu, Xiaowei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-aware Texture Smoothing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-Aware Texture Smoothing},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Visualization and Computer Graphics},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
