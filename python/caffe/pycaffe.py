@@ -52,6 +52,7 @@ def _Net_params(self):
     weights and biases)
     """
     if not hasattr(self, '_params_dict'):
+        #print(self.layers[0].blobs[0])
         self._params_dict = OrderedDict([(name, lr.blobs)
                                         for name, lr in zip(
                                             self._layer_names, self.layers)
