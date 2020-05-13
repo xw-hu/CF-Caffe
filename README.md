@@ -91,12 +91,22 @@ If you use these models, please cite their papers accordingly.
 &nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
 }
 
+### [SAC-Net](https://github.com/xw-hu/SAC-Net)
+@article{hu2020sac,                  
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Wang, Tianyu and Heng, Pheng-Ann},      
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {SAC-Net: Spatial Attenuation Context for Salient Object Detection},      
+&nbsp;&nbsp;&nbsp;&nbsp;  journal = {IEEE Transactions on Circuits and Systems for Video Technology},        
+&nbsp;&nbsp;&nbsp;&nbsp;  year = {2020},                     
+&nbsp;&nbsp;&nbsp;&nbsp;  note = {to appear},                          
+}
+
 ### [GNLB](https://github.com/xw-hu/GNLB)
 @article{zhu2018saliency,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Zhu, Lei and Hu, Xiaowei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
 &nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-Aware Texture Smoothing},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Visualization and Computer Graphics},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+&nbsp;&nbsp;&nbsp;&nbsp;  note = {to appear},           
 }
 
 ### [RADF](https://github.com/xw-hu/RADF)
