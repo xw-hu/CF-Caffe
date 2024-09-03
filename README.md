@@ -5,28 +5,33 @@ Caffe designed for Deep Context Features
 
 If you use CF-Caffe, please cite:
 
-@InProceedings{Hu_2018_CVPR,      
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},      
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection},      
-&nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-&nbsp;&nbsp;&nbsp;&nbsp;  pages={7454--7462},        
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2018}      
+```
+@inproceedings{hu2018direction,
+  title={Direction-aware spatial context features for shadow detection},
+  author={Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},
+  booktitle={IEEE conference on computer vision and pattern recognition (CVPR)},
+  pages={7454--7462},
+  year={2018}
 }
 
-@article{hu2019direction,   
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Direction-Aware Spatial Context Features for Shadow Detection and Removal},    
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2019},          
-&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear}                  
+@article{hu2020direction,
+  title={Direction-aware spatial context features for shadow detection and removal},
+  author={Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={11},
+  pages={2795--2808},
+  year={2020}
 }
 
-@article{jia2014caffe,       
-&nbsp;&nbsp;&nbsp;&nbsp;  author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},       
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Caffe: Convolutional Architecture for Fast Feature Embedding},       
-&nbsp;&nbsp;&nbsp;&nbsp;  journal = {arXiv preprint arXiv:1408.5093},       
-&nbsp;&nbsp;&nbsp;&nbsp;  year = {2014}       
+@inproceedings{jia2014caffe,
+  title={Caffe: Convolutional architecture for fast feature embedding},
+  author={Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  booktitle={ACM international conference on Multimedia},
+  pages={675--678},
+  year={2014}
 }
+```
 
 ## Installation
 1. Clone this repository.
